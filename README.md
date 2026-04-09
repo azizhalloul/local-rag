@@ -1,4 +1,4 @@
-#  Local RAG Engine — TP n°1
+#  Local RAG Engine 
 
 > **Retrieval-Augmented Generation** from scratch using **FAISS**, **Gemma 3** and **Ollama** — fully local, no cloud calls.
 
